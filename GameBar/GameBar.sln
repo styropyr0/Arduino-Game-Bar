@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30621.155
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Game Bar", "Game Bar\Game Bar.csproj", "{9AFD4637-B790-407E-8642-BB515664F7F9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9AFD4637-B790-407E-8642-BB515664F7F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9AFD4637-B790-407E-8642-BB515664F7F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9AFD4637-B790-407E-8642-BB515664F7F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9AFD4637-B790-407E-8642-BB515664F7F9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AC156E1D-2A2B-4706-BD8D-8A3DEEE144BE}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,26 @@
+C:\Users\saura\source\repos\GameBar\Game Bar\bin\Debug\Game Bar.exe.config
+C:\Users\saura\source\repos\GameBar\Game Bar\bin\Debug\Game Bar.exe
+C:\Users\saura\source\repos\GameBar\Game Bar\bin\Debug\Game Bar.pdb
+C:\Users\saura\source\repos\GameBar\Game Bar\obj\Debug\Game Bar.csprojAssemblyReference.cache
+C:\Users\saura\source\repos\GameBar\Game Bar\obj\Debug\Game_Bar.Form1.resources
+C:\Users\saura\source\repos\GameBar\Game Bar\obj\Debug\Game_Bar.Properties.Resources.resources
+C:\Users\saura\source\repos\GameBar\Game Bar\obj\Debug\Game Bar.csproj.GenerateResource.cache
+C:\Users\saura\source\repos\GameBar\Game Bar\obj\Debug\Game Bar.csproj.CoreCompileInputs.cache
+C:\Users\saura\source\repos\GameBar\Game Bar\obj\Debug\Game Bar.exe
+C:\Users\saura\source\repos\GameBar\Game Bar\obj\Debug\Game Bar.pdb
+D:\Users\saura\source\repos\GameBar\Game Bar\bin\Debug\Game Bar.exe.config
+D:\Users\saura\source\repos\GameBar\Game Bar\bin\Debug\Game Bar.exe
+D:\Users\saura\source\repos\GameBar\Game Bar\bin\Debug\Game Bar.pdb
+D:\Users\saura\source\repos\GameBar\Game Bar\obj\Debug\Game Bar.csproj.AssemblyReference.cache
+D:\Users\saura\source\repos\GameBar\Game Bar\obj\Debug\Game Bar.csproj.SuggestedBindingRedirects.cache
+D:\Users\saura\source\repos\GameBar\Game Bar\obj\Debug\Game_Bar.Form1.resources
+D:\Users\saura\source\repos\GameBar\Game Bar\obj\Debug\Game_Bar.Properties.Resources.resources
+D:\Users\saura\source\repos\GameBar\Game Bar\obj\Debug\Game Bar.csproj.GenerateResource.cache
+D:\Users\saura\source\repos\GameBar\Game Bar\obj\Debug\Game Bar.csproj.CoreCompileInputs.cache
+D:\Users\saura\source\repos\GameBar\Game Bar\obj\Debug\Game Bar.exe
+D:\Users\saura\source\repos\GameBar\Game Bar\obj\Debug\Game Bar.pdb
+D:\Users\saura\source\repos\GameBar\Game Bar\obj\Debug\Game_Bar.UserControl1.resources
+D:\Users\saura\source\repos\GameBar\Game Bar\bin\Debug\Game Bar.exe.manifest
+D:\Users\saura\source\repos\GameBar\Game Bar\bin\Debug\Game Bar.application
+D:\Users\saura\source\repos\GameBar\Game Bar\obj\Debug\Game Bar.exe.manifest
+D:\Users\saura\source\repos\GameBar\Game Bar\obj\Debug\Game Bar.application
